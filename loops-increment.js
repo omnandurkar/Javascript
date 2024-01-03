@@ -10,3 +10,9 @@ for (j=1; j<=20; j++){
         console.log(j)
     }
 }
+
+console.log("Other way is")
+
+for (k=2;k<=20;k+=2){
+    console.log(k)
+}
