@@ -16,3 +16,9 @@ console.log("Other way is")
 for (k=2;k<=20;k+=2){
     console.log(k)
 }
+
+console.log("Other Example is")
+
+for (a=12; a<=120; a += 12){
+    console.log(a)
+}
