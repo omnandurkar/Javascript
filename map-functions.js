@@ -18,6 +18,8 @@ const doubleNumber  = number.map((number , index) => {
 }
 );
 
+console.log(doubleNumber)
+
 
 
 //  with the map functions
@@ -32,3 +34,14 @@ const doubleNumber  = number.map((number , index) => {
 
 // Returns a new array with the results of applying the provided function to each element.
 // Preferred when you need to transform or modify the data in an array and create a new array with the modified values.
+
+const Nums =[1,2,3,4,5,6];
+
+const Cube = Nums.map((Nums ,index) =>{
+    return Nums ** 3;
+}
+
+
+);
+
+console.log(Cube);
