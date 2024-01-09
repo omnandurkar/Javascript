@@ -24,6 +24,5 @@ const rank = ["Rohan","CHagan" , "Magan" ,"Bhajan"]
 rank.forEach((rank,index) =>{
     console.log(`${rank} secure the rank ${index}`);
 }
-
-
+//
 )
