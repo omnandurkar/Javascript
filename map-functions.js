@@ -18,4 +18,4 @@ const doubleNumber  = number.map((number , index) => {
 }
 );
 
-// done
+//  with the map functions
