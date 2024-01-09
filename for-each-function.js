@@ -8,3 +8,13 @@ numbers.forEach((numbers, index) => {
 }
 
 )
+
+// Another example
+
+const friends = ["Sunny" , "Sadanand" , "Naari" , "Purush"]
+
+friends.forEach((friends,index) =>{
+    console.log(`My Friend ${friends} lives in the row house number ${index} `);
+}
+
+)
