@@ -8,3 +8,5 @@ const squareNumbers = numbers.map((number , index) =>{
 );
 
 console.log(squareNumbers);
+
+// map functions
