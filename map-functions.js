@@ -17,3 +17,5 @@ const doubleNumber  = number.map((number , index) => {
     return number * 2;
 }
 );
+
+// done
